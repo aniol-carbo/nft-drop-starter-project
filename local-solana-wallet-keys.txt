@@ -1,0 +1,7 @@
+Wrote new keypair to ~/.config/solana/devnet.json
+=============================================================================
+pubkey: FqNNKNo5p9tKZHYiccdikzWHHFPSBfqc3tE2Bzac81Wp
+=============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+buyer beauty mesh virus april noble relief stumble cross lend blossom license
+=============================================================================

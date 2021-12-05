@@ -1,0 +1,19 @@
+{
+  "name": "ROLEX_OYSTER_PERPETUAL_DAY-DATE",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FqNNKNo5p9tKZHYiccdikzWHHFPSBfqc3tE2Bzac81Wp",
+        "share": 100
+      }
+    ]
+  }
+}

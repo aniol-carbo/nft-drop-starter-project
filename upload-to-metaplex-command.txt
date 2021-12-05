@@ -1,0 +1,4 @@
+ts-node ~/metaplex-foundation/metaplex/js/packages/cli/src/candy-machine-cli.ts upload ./Desktop/programming/buildspace-nft-solana/assets --env devnet --keypair ~/.config/solana/devnet.json
+
+
+(from c:\Users\ANIOL)
