@@ -1,4 +1,5 @@
-# buildspace Solana NFT Drop Project
+# ⌚Timeless NFT
+
 ### Welcome 👋
 To get run this project, clone this repo and follow these commands:
 
@@ -7,5 +8,6 @@ To get run this project, clone this repo and follow these commands:
 3. Run `npm run start` to start the project
 4. Start coding!
 
-If you want to visit my own NFT-minting website, check out:
+### Mint some Timeless NFTs before they sell out!
+My "Timeless NFT" minting website is hosted here:
 https://timeless-nft.vercel.app/
