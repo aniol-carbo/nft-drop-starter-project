@@ -1,7 +1,7 @@
 # ⌚Timeless NFT
 
 ### Welcome 👋
-To get run this project, clone this repo and follow these commands:
+To run this project locally, clone this repo and follow these commands:
 
 1. cd into the `app` folder
 2. Run `npm install` at the root of your directory
