@@ -1,2 +1,0 @@
-wallet public key: FqNNKNo5p9tKZHYiccdikzWHHFPSBfqc3tE2Bzac81Wp
-create_candy_machine finished. candy machine pubkey: 9y7sou44Ngwny5VxBvNRMmQTVW5j8wrdW9KKGq7Ks419
